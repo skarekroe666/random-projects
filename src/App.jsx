@@ -21,7 +21,7 @@ const App = () => {
       {/* <TreeView menus={menus}/> */}
       {/* <ThemeToggle/> */}
       {/* <Theme/> */}
-      <GithubPfp/>
+      {/* <GithubPfp/> */}
     </>
   )
 }
