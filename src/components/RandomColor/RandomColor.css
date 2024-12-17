@@ -1,0 +1,20 @@
+.container{
+    /* display: flex;
+    align-items: center;
+    justify-content: space-around; */
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+}
+.hex-value{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    margin-top: 50px;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
