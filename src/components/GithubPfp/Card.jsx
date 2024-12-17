@@ -16,7 +16,8 @@ const Card = ({ user }) => {
         <p>user joined on {" "}
           {`${createdDate.getDate()} ${createdDate.toLocaleString('en-us', {
             month: 'short'
-          })} ${createdDate.getFullYear()}`}</p>
+          })} ${createdDate.getFullYear()}`}
+        </p>
       </div>
       <div className='profile-info'>
         <div>
